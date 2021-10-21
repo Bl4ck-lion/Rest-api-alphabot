@@ -23,7 +23,7 @@ router.get('/config', (req, res) => {
     config = {
         status: true,
         result: {
-            prefix : '3',
+            prefix : '#',
             namabot: 'YuiBot',
             namaowner: 'LeonGanz',
             instagram: 'leonvx._',
